@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently starting a business now.
+- 🌱 I’m currently learning Agent and LLM.
+- 👯 I’m looking to collaborate on entrepreneurship.
+- 🤔 I’m looking for help with Hardware technology.
+- 💬 Ask me about entrepreneurship or Computer Science.
+- 📫 How to reach me: 
+- 😄 Pronouns: Ethan(whh)
+- ⚡ Fun fact: I like to make friends and explore the future together.
+  
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -16,13 +16,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ JackZhang
 
 
-My name is Jack Zhang (Chinese: 张容祥).I am an undergraduate student at Harbin Institute of Technology. I  am interested in various fields including Diffusion Model and LLM.Currently I'm focusing on **Reinforcement Learning**.
-- Assessment score: 98.60 &nbsp;    Rank( 1/709)
-- CET4:&nbsp; 665
-- CET6:&nbsp; 595
+My name is Wang Haihong. I am an undergraduate student at Harbin Institute of Technology. I am interested in various fields including Agent and LLM. Currently I'm focusing on **GUI agent**.
 
-I started programming since I was in middle school. And In my first year in the university, I have an encounter with Deep Learning and then became enthusiastic about it.
-I love reading,literature and poems.
+
 If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
