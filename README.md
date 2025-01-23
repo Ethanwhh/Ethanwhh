@@ -1,4 +1,4 @@
-## Hi there 👋  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ethanwhh
+## Hi there 👋  ɪ'ᴍ Ethanwhh
 
 My name is Wang Haihong. I am an undergraduate student at Harbin Institute of Technology. I am interested in various fields including Agent and LLM. Currently I'm focusing on **GUI agent**.
 
