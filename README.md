@@ -4,6 +4,10 @@ My name is Wang Haihong. I am an undergraduate student at Harbin Institute of Te
 
 If you are interested in me, your contact is highly anticipated!
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 - 🔭 I’m currently starting a business now.
 - 🌱 I’m currently learning Agent and LLM.
 - 👯 I’m looking to collaborate on entrepreneurship.
@@ -13,9 +17,7 @@ If you are interested in me, your contact is highly anticipated!
 - 😄 Pronouns: Ethan(whh)
 - ⚡ Fun fact: I like to make friends and explore the future together.
   
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
