@@ -19,8 +19,8 @@ If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/qq_35328355).
-- 💻 Visit my [WebPage](https://zhangrongxiang.github.io/) for more details about me.
+- ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/m0_73672030?spm=1010.2135.3001.5343).
+- 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanwhh)](https://github.com/anuraghazra/github-readme-stats)
   <h3 align="left">SELECTED HONORS </h3>
