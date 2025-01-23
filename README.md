@@ -27,4 +27,3 @@ If you are interested in me, your contact is highly anticipated!
 
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanwhh)](https://github.com/anuraghazra/github-readme-stats)
-  <h3 align="left">SELECTED HONORS </h3>
