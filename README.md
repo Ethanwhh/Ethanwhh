@@ -21,7 +21,6 @@ If you are interested in me, your contact is highly anticipated!
 - 😄 Pronouns: Ethan(whh)
 - ⚡ Fun fact: I like to make friends and explore the future together.
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/m0_73672030?spm=1010.2135.3001.5343).
 - 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
 
