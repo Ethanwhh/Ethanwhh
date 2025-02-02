@@ -17,7 +17,7 @@ If you are interested in me, your contact is highly anticipated!
 - 👯 I’m looking to collaborate on entrepreneurship.
 - 🤔 I’m looking for help with Hardware technology.
 - 💬 Ask me about entrepreneurship or Computer Science.
-- 📫 How to reach me: ![Wechat](/imgs/wechat)
+- 📫 How to reach me: [Wechat](/imgs/wechat)
 - 😄 Pronouns: Ethan(whh)
 - ⚡ Fun fact: I like to make friends and explore the future together.
 - ✨ Student of life :)
