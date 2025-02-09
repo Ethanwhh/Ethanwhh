@@ -17,10 +17,10 @@ If you are interested in me, your contact is highly anticipated!
 - 👯 I’m looking to collaborate on entrepreneurship.
 - 🤔 I’m looking for help with Hardware technology.
 - 💬 Ask me about entrepreneurship or Computer Science.
-- 📫 How to reach me: [Wechat](/imgs/wechat.jpg)
-- 😄 Pronouns: Ethan(whh)
+- 📫 How to reach me: [Wechat](/imgs/wechat.jpg).
+- 😄 Pronouns: Ethan(whh).
 - ⚡ Fun fact: I like to make friends and explore the future together.
-- ✨ Student of life :)
+- ✨ Student of life :).
 - ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/m0_73672030?spm=1010.2135.3001.5343).
 - 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
 
