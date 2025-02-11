@@ -1,4 +1,4 @@
-## Hi there 👋  ɪ'ᴍ Ethanwhh
+## Hi there 👋  ɪ'ᴍ Whethan
 
 
 My name is Wang Haihong. I am an undergraduate student at Harbin Institute of Technology. I am interested in various fields including Agent and LLM. Currently I'm focusing on **GUI agent**.
