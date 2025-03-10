@@ -25,4 +25,4 @@ If you are interested in me, your contact is highly anticipated!
 - 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanwhh)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethanwhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwhh)](https://github.com/anuraghazra/github-readme-stats)
