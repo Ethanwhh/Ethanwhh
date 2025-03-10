@@ -24,4 +24,4 @@ If you are interested in me, your contact is highly anticipated!
 - ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/m0_73672030?spm=1010.2135.3001.5343).
 - 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanwhh)](https://github.com/anuraghazra/github-readme-stats)
