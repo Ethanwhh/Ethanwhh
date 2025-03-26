@@ -1,7 +1,7 @@
 ## Hi there 👋  ɪ'ᴍ Ethanwhh
 
 
-My name is Wang Haihong.🥰I am an undergraduate student at Harbin Institute of Technology. I am interested in various fields including Agent and LLM. Currently I'm focusing on **GUI agent**. And I am a member of [Datawhale](https://github.com/datawhalechina), Welcome to play and contribute to community development together.
+My name is Wang Haihong.🥰I am an undergraduate student at Harbin Institute of Technology. I am interested in various fields including Agent and LLM. Currently I'm focusing on **GUI agent**. And I am a member of [Datawhale](https://github.com/datawhalechina), welcome to play and contribute to community development together.
 
 
 If you are interested in me, your contact is highly anticipated!
