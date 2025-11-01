@@ -13,7 +13,7 @@ If you are interested in me, your contact is highly anticipated!
 
 
 - 🔭 I’m currently starting a business now.
-- 🌱 I’m currently learning Agent and LLM.
+- 🌱 I’m currently learning Agent and Embodied-AI.
 - 👯 I’m looking to collaborate on entrepreneurship.
 - 🤔 I’m looking for help with Hardware technology.
 - 💬 Ask me about entrepreneurship or Computer Science.
