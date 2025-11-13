@@ -22,5 +22,5 @@ If you are interested in me, your contact is highly anticipated!
 - ⚡ Fun fact: I like to make friends and explore the future together.
 - ✨ Student of life :).
 - ✍ I write technical blogs, You can visit [Zhihu](https://www.zhihu.com/people/invincible-45-96) or [CSDN](https://blog.csdn.net/m0_73672030).
-- 💻 Visit my [WebPage](https://Ethanwhh.github.io/) for more details about me.
+- 💻 Visit my [WebPage]() for more details about me.
 
