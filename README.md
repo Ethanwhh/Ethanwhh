@@ -28,7 +28,7 @@ I'm a member of [**Datawhale**](https://github.com/datawhalechina) 🐳, an open
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](haihongwang2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haihongwang2004@gmail.com)
 [![Zhihu](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/invincible-45-96)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/m0_73672030)
 [![XiaoHongShu](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/632c820a000000002303ce09)
