@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there 👋  I'm Ethanwhh (Wang Haihong)
+# Hi there 👋  I'm Ethanwhh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+Agent+%26+Embodied+AI;Open+Source+Contributor+%26+Datawhale" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm an undergraduate student at **Harbin Institute of Technology (HIT)** 🎓, and I'm excited to continue my academic journey at the **National University of Singapore (NUS)** for graduate studies.
+My name is Wang Haihong. I'm an undergraduate student at **Harbin Institute of Technology (HIT)** 🎓, and I'm excited to continue my academic journey at the **National University of Singapore (NUS)** for graduate studies.
 
 My research interests lie at the intersection of cutting-edge AI technologies:
 - 🤖 **AI Agents** - Building intelligent autonomous systems
