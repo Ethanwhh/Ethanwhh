@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there 👋  I'm Ethan (Wang Haihong)
+# Hi there 👋  I'm Ethanwhh (Wang Haihong)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Researcher+%7C+Agent+%26+Embodied+AI;Open+Source+Contributor+%26+Datawhale" alt="Typing SVG" />
 
