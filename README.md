@@ -54,7 +54,7 @@ I regularly share my thoughts and technical insights on:
 
 <div align="center">
   
-### 💻 Check out my [Personal Website]() for more details!
+### 💻 Check out my [Personal Website](https://ethanwhh.github.io/) for more details!
 
 *💌 If you're interested in my work, let's connect! I'd love to hear from you.*
 
