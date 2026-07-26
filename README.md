@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-My name is Wang Haihong. I'm an undergraduate student at **Harbin Institute of Technology (HIT)** 🎓, and I'm excited to continue my academic journey at the **National University of Singapore (NUS)** for graduate studies.
+I am a student at the National University of Singapore. I obtained my Bachelor’s degree in Computer Science and Technology from Harbin Institute of Technology.
 
 My research interests lie at the intersection of cutting-edge AI technologies:
 - 🤖 **AI Agents** - Building intelligent autonomous systems
