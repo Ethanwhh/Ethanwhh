@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I am a student at the National University of Singapore. I obtained my Bachelor’s degree in Computer Science and Technology from Harbin Institute of Technology.
+I am a student at the National University of Singapore. I obtained my Bachelor’s degree from Harbin Institute of Technology major in Computer Science and Technology, with a minor in Finance.
 
 My research interests lie at the intersection of cutting-edge AI technologies:
 - 🤖 **AI Agents** - Building intelligent autonomous systems
