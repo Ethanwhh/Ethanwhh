@@ -41,11 +41,3 @@ I'm a member of [**Datawhale**](https://github.com/datawhalechina) 🐳, an open
 - 🌏 Always open to collaboration and interesting conversations
 - 💡 Passionate about bridging academia and industry
 
-
-<div align="center">
-  
-### 💻 Check out my [Personal Website](https://ethanwhh.github.io/) for more details!
-
-*💌 If you're interested in my work, let's connect! I'd love to hear from you.*
-
-</div>
