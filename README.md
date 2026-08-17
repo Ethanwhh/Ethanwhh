@@ -33,9 +33,7 @@ I'm a member of [**Datawhale**](https://github.com/datawhalechina) 🐳, an open
 
 ## 📝 Latest Blog Posts
 
-I regularly share my thoughts and technical insights on:
-- [**Zhihu**](https://www.zhihu.com/people/invincible-45-96) - Chinese tech articles and insights
-- [**CSDN**](https://blog.csdn.net/m0_73672030) - Technical tutorials and project sharing
+
 
 ## 🎯 Fun Facts
 
